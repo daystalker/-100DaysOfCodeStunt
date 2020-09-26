@@ -1,0 +1,7 @@
+Tried more functionalities of Numpy such as:
+1.Multi D Array
+2.Variance and Standard Deviation Calculation
+
+Tried Matplotlib
+1.Created a bar graph with a gaussian / normal distribution data
+2.plt.hist(data,bins,range)
